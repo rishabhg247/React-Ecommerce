@@ -1,3 +1,7 @@
+Built using React and Tailwind CSS, this minimalist e-commerce website showcases a contemporary and user-friendly design. It offers a seamless shopping experience with its intuitive navigation and emphasis on the product catalog. The website's sleek interface prioritizes the products, ensuring a hassle-free browsing and purchasing process for users.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
